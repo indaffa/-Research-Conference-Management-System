@@ -1,0 +1,29 @@
+table, td, th, tr{
+	border: 2px solid black;
+}
+
+table{
+	width : 80%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+}
+
+.main{
+	width: 70%;
+	background-color: white;
+	margin: auto;
+	min-height: 100%;
+	opacity: 0.9;
+}
+
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("../img/background.jpg");
+	height: 100vh;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+
+
+
